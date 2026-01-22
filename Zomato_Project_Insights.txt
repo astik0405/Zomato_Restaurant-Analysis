@@ -1,0 +1,36 @@
+ZOMATO RESTAURANTS ANALYSIS – KEY INSIGHTS
+
+1) Global Presence
+- The dataset includes restaurants across 13 countries and 80 cities, showing wide global coverage.
+
+2) Restaurant Count Summary
+- Total Restaurants: 1097
+- Total Cities: 80
+- Total Countries: 13
+- Total Cuisines: 372
+This indicates a highly diverse restaurant and cuisine ecosystem.
+
+3) Rating Trend
+- The overall average rating is 2.91, suggesting mixed customer satisfaction levels.
+
+4) Cuisine Popularity
+- Some cuisines have the highest restaurant count, indicating strong demand and popularity.
+- Cuisine-wise analysis helps identify the most served cuisines across countries.
+
+5) Cuisine vs Rating Relationship
+- Certain cuisines have high restaurant count but comparatively lower ratings.
+- This helps identify cuisines where quality improvement may be needed.
+
+6) Customer Engagement (Votes)
+- Total votes are around 170K, indicating strong customer interaction and feedback activity.
+
+7) Online Delivery Adoption
+- A major portion of restaurants offer online delivery, showing strong adoption of digital food ordering.
+
+8) Table Booking Availability
+- Table booking feature is lower than online delivery, suggesting many restaurants focus more on quick-service delivery rather than reservations.
+
+9) City-Wise Distribution
+- The map view highlights city-wise restaurant concentration, helping identify business hotspots.
+
+This insights file is based on the Power BI dashboard: Zomato Restaurants Analysis.
